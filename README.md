@@ -60,7 +60,11 @@ class Yashwanth(AISophomore, FullStackDev):
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cpp,dart,ts,flutter,nextjs,fastapi,supabase,firebase,postgres,git,github,figma&theme=dark&perline=10" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,ts,react,nextjs,dart,flutter,fastapi,tensorflow,arduino,raspberrypi,supabase,firebase,postgres,git,github,figma&theme=dark&perline=10" alt="Tech Stack" />
+<br/>
+<br/>
+<img src="https://img.shields.io/badge/Weaviate-130C49?style=for-the-badge&logo=Weaviate&logoColor=white" alt="Weaviate" />
+<img src="https://img.shields.io/badge/Tavily_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white" alt="Tavily API" />
 
 </div>
 
