@@ -70,18 +70,20 @@ class Yashwanth(AISophomore, FullStackDev):
 
 ---
 
-### 💻 `[ FEATURED PROJECTS ]`
+### 💻 `[ 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐃 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒 ]`
 
-**📱 Campus Lost & Found - Cross Platform Mobile App**
-- Designed UI/UX architecture and interactive wireframes using Figma.
-- Built with **Flutter**, **Dart**, and **Supabase**.
-- Implemented RBAC and Row Level Security (RLS) for administrative tools.
-- Integrated Supabase Realtime for cross-platform synchronization on iOS and Android.
+> **📱 𝗖𝗮𝗺𝗽𝘂𝘀 𝗟𝗼𝘀𝘁 & 𝗙𝗼𝘂𝗻𝗱 — 𝘊𝘳𝘰𝘴𝘴 𝘗𝘭𝘢𝘵𝘧𝘰𝘳𝘮 𝘔𝘰𝘣𝘪𝘭𝘦 𝘈𝘱𝘱**
+> - Designed UI/UX architecture and interactive wireframes using Figma.
+> - Built with **Flutter**, **Dart**, and **Supabase**.
+> - Implemented RBAC and Row Level Security (RLS) for administrative tools.
+> - Integrated Supabase Realtime for cross-platform synchronization on iOS and Android.
 
-**🤝 DealFlow AI - Matcher for Investors & Startup Founders**
-- Full-stack RAG pipeline using **Weaviate** and **Google Gemini** for document ingestion and context-aware insights.
-- Developed a responsive frontend with **Next.js 14**, **Recharts**, and **Framer Motion**.
-- Backend built with **FastAPI (Python)** and **Supabase** for secure user management and multi-language query execution.
+<br/>
+
+> **🤝 𝗗𝗲𝗮𝗹𝗙𝗹𝗼𝘄 𝗔𝗜 — 𝘔𝘢𝘵𝘤𝘩𝘦𝘳 𝘧𝘰𝘳 𝘐𝘯𝘷𝘦𝘴𝘵𝘰𝘳𝘴 & 𝘚𝘵𝘢𝘳𝘵𝘶𝘱 𝘍𝘰𝘶𝘯𝘥𝘦𝘳𝘴**
+> - Full-stack RAG pipeline using **Weaviate** and **Google Gemini** for document ingestion and context-aware insights.
+> - Developed a responsive frontend with **Next.js 14**, **Recharts**, and **Framer Motion**.
+> - Backend built with **FastAPI (Python)** and **Supabase** for secure user management and multi-language query execution.
 
 ---
 
