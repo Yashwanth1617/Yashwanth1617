@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="300" />
+
 <br />
 
 # 𝐘𝐀𝐒𝐇𝐖𝐀𝐍𝐓𝐇 𝐁.
@@ -18,56 +20,36 @@
 
 <table width="100%" border="0" align="center">
   <tr>
-    <td width="70%" valign="middle">
+    <td width="60%" valign="middle">
       <blockquote>
         <b>Engineering at the intersection of Machine Learning and scalable Full-Stack Development.</b><br/>
         <i>Currently pursuing a B.Tech in AI & Data Engineering at Amrita Vishwa Vidyapeetham.</i>
       </blockquote>
     </td>
-    <td width="30%" align="center">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="80%" style="border-radius: 12px;"/>
+    <td width="40%" align="center">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="100%" style="border-radius: 12px;"/>
     </td>
   </tr>
 </table>
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ### ✦ 𝐄 𝐗 𝐏 𝐄 𝐑 𝐓 𝐈 𝐒 𝐄
 
 <br />
 
-<table align="center" width="100%">
-  <tr align="center">
-    <td width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" />
-      <br/><b>🧠 Artificial Intelligence</b>
-    </td>
-    <td width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40" />
-      <br/><b>⚡ Backend Engineering</b>
-    </td>
-    <td width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="40" />
-      <br/><b>📱 Frontend & Mobile</b>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>LLMs • RAG • Computer Vision</td>
-    <td>FastAPI • Postgres • Supabase</td>
-    <td>Next.js • Flutter • Dart</td>
-  </tr>
-  <tr align="center">
-    <td>TensorFlow • Gemini • Weaviate</td>
-    <td>C++ • Python • REST APIs</td>
-    <td>TypeScript • Tailwind • Figma</td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,ts,react,nextjs,dart,flutter,fastapi,tensorflow,arduino,raspberrypi,supabase,firebase,postgres,git,github,figma&theme=dark&perline=10" alt="Tech Stack" />
+<br />
+<br />
+<img src="https://img.shields.io/badge/Weaviate-130C49?style=for-the-badge&logo=Weaviate&logoColor=white" alt="Weaviate" />
+<img src="https://img.shields.io/badge/Tavily_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white" alt="Tavily API" />
 
 <br />
+<br />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ### ✦ 𝐒 𝐄 𝐋 𝐄 𝐂 𝐓 𝐄 𝐃  𝐖 𝐎 𝐑 𝐊 𝐒
 
@@ -92,7 +74,7 @@
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ### ✦ 𝐑 𝐄 𝐒 𝐄 𝐀 𝐑 𝐂 𝐇  &  𝐏 𝐔 𝐁 𝐋 𝐈 𝐂 𝐀 𝐓 𝐈 𝐎 𝐍 𝐒
 
@@ -105,7 +87,7 @@
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ### ✦ 𝐀 𝐂 𝐓 𝐈 𝐕 𝐈 𝐓 𝐘  &  𝐌 𝐄 𝐓 𝐑 𝐈 𝐂 𝐒
 
