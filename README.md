@@ -93,6 +93,32 @@
 
 <br />
 
+<!-- TTT_BOARD_START -->
+<div align="center">
+  <h3>🎮 Interactive Tic-Tac-Toe</h3>
+  <p><b>Game reset! Your turn (❌)</b></p>
+  <table border="1" bordercolor="#444444" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C0&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
+      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C1&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
+      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C2&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
+    </tr>
+    <tr>
+      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C3&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
+      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C4&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
+      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C5&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
+    </tr>
+    <tr>
+      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C6&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
+      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C7&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
+      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C8&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
+    </tr>
+  </table>
+  <br/>
+  <p><i>Click a white square to make a move! (You are ❌)</i></p>
+  <a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Creset&body=Just+click+Submit+new+issue!">🔄 Reset Game</a>
+</div>
+<!-- TTT_BOARD_END -->
 
 <br />
 
