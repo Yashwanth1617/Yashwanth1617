@@ -14,6 +14,8 @@
 
 ### ✦ 𝐀 𝐁 𝐎 𝐔 𝐓  𝐌 𝐄
 
+<img align="right" width="40%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" style="border-radius: 12px;"/>
+
 ```json
 {
   "name": "Yashwanth B.",
@@ -26,6 +28,7 @@
   "interests": ["Agentic AI", "LLMs", "RAG"]
 }
 ```
+<br clear="all" />
 
 <br />
 
