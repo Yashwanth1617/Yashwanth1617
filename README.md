@@ -12,19 +12,20 @@
 
 <br />
 
-<table width="100%" border="0" align="center">
-  <tr>
-    <td width="60%" valign="middle">
-      <blockquote>
-        <b>Engineering at the intersection of Machine Learning and scalable Full-Stack Development.</b><br/>
-        <i>Currently pursuing a B.Tech in AIE at Amrita Vishwa Vidyapeetham.</i>
-      </blockquote>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="100%" style="border-radius: 12px;"/>
-    </td>
-  </tr>
-</table>
+### ✦ 𝐀 𝐁 𝐎 𝐔 𝐓  𝐌 𝐄
+
+```json
+{
+  "name": "Yashwanth B.",
+  "degree": "B.Tech in AIE (Batch: 2024 - 2028)",
+  "languages": ["Python", "C++", "C", "JavaScript", "TypeScript", "Dart", "HTML", "CSS"],
+  "paper": {
+    "count": 1,
+    "journal": "Results in Engineering, Elsevier"
+  },
+  "interests": ["Agentic AI", "LLMs", "RAG"]
+}
+```
 
 <br />
 
@@ -93,32 +94,7 @@
 
 <br />
 
-<!-- TTT_BOARD_START -->
-<div align="center">
-  <h3>🎮 Interactive Tic-Tac-Toe</h3>
-  <p><b>Game reset! Your turn (❌)</b></p>
-  <table border="1" bordercolor="#444444" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C0&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
-      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C1&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
-      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C2&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
-    </tr>
-    <tr>
-      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C3&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
-      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C4&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
-      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C5&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
-    </tr>
-    <tr>
-      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C6&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
-      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C7&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
-      <td align="center" width="80" height="80"><a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Cmove%7C8&body=Just+click+Submit+new+issue!"><h2>⬜</h2></a></td>
-    </tr>
-  </table>
-  <br/>
-  <p><i>Click a white square to make a move! (You are ❌)</i></p>
-  <a href="https://github.com/Yashwanth1617/Yashwanth1617/issues/new?title=ttt%7Creset&body=Just+click+Submit+new+issue!">🔄 Reset Game</a>
-</div>
-<!-- TTT_BOARD_END -->
+
 
 <br />
 
