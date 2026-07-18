@@ -94,21 +94,6 @@
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### ✦ 𝐀 𝐂 𝐓 𝐈 𝐕 𝐈 𝐓 𝐘  &  𝐌 𝐄 𝐓 𝐑 𝐈 𝐂 𝐒
-
-<br />
-
-
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yashwanth1617&label=PROFILE+VIEWS&color=000000&style=flat-square" alt="Profile Views" />
-</div>
-
-<br />
-<br />
 
 </div>
