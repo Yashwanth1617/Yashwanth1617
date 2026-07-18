@@ -2,7 +2,7 @@
 
 <br />
 
-# 𝐘𝐀𝐒𝐇𝐖𝐀𝐍𝐓𝐇 𝐁.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=YASHWANTH+B." alt="YASHWANTH B." />
 
 <p align="center">
   <b>Architecting Intelligent Systems | AI & Data Engineering</b>
@@ -21,7 +21,7 @@
     <td width="60%" valign="middle">
       <blockquote>
         <b>Engineering at the intersection of Machine Learning and scalable Full-Stack Development.</b><br/>
-        <i>Currently pursuing a B.Tech in AI & Data Engineering at Amrita Vishwa Vidyapeetham.</i>
+        <i>Currently pursuing a B.Tech in AIE at Amrita Vishwa Vidyapeetham.</i>
       </blockquote>
     </td>
     <td width="40%" align="center">
