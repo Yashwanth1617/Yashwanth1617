@@ -32,22 +32,28 @@
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### ✦ 𝐄 𝐗 𝐏 𝐄 𝐑 𝐓 𝐈 𝐒 𝐄
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,ts,react,nextjs,dart,flutter,fastapi,tensorflow,arduino,raspberrypi,supabase,firebase,postgres,git,github,figma&theme=dark&perline=10" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,ts,react,nextjs,dart,flutter,fastapi,tensorflow,arduino,raspberrypi,supabase,firebase,postgres,git,github,figma,linux,mongodb,androidstudio&theme=dark&perline=12" alt="Tech Stack" />
 <br />
 <br />
-<img src="https://img.shields.io/badge/Weaviate-130C49?style=for-the-badge&logo=Weaviate&logoColor=white" alt="Weaviate" />
-<img src="https://img.shields.io/badge/Tavily_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white" alt="Tavily API" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Weaviate-130C49?style=for-the-badge&logo=Weaviate&logoColor=white" alt="Weaviate" />
+  <img src="https://img.shields.io/badge/Tavily_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white" alt="Tavily API" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/TraCI-0052CC?style=for-the-badge" alt="TraCI" />
+  <img src="https://img.shields.io/badge/Eclipse_SUMO-121212?style=for-the-badge&logo=eclipse&logoColor=white" alt="SUMO" />
+</div>
 
 <br />
 <br />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### ✦ 𝐒 𝐄 𝐋 𝐄 𝐂 𝐓 𝐄 𝐃  𝐖 𝐎 𝐑 𝐊 𝐒
 
@@ -72,7 +78,7 @@
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### ✦ 𝐑 𝐄 𝐒 𝐄 𝐀 𝐑 𝐂 𝐇  &  𝐏 𝐔 𝐁 𝐋 𝐈 𝐂 𝐀 𝐓 𝐈 𝐎 𝐍 𝐒
 
