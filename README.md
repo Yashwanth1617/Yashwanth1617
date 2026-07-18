@@ -2,11 +2,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=YASHWANTH+B." alt="YASHWANTH B." />
-
-<p align="center">
-  <b>Architecting Intelligent Systems | AI & Data Engineering</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YASHWANTH%20B.&fontSize=56&fontColor=fff&fontAlignY=38&desc=Architecting%20Intelligent%20Systems%20%7C%20AI%20%26%20Data%20Engineering&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/yashwanth1617"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=111" alt="LinkedIn"/></a>
