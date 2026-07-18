@@ -46,12 +46,11 @@
 <br />
 <br />
 <div align="center">
-  <img src="https://img.shields.io/badge/Weaviate-130C49?style=for-the-badge&logo=Weaviate&logoColor=white" alt="Weaviate" />
-  <img src="https://img.shields.io/badge/Tavily_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white" alt="Tavily API" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/TraCI-0052CC?style=for-the-badge" alt="TraCI" />
-  <img src="https://img.shields.io/badge/Eclipse_SUMO-121212?style=for-the-badge&logo=eclipse&logoColor=white" alt="SUMO" />
+  <img src="./assets/Weaviate.png" alt="Weaviate" height="48" />
+  <img src="./assets/tavily.jpg" alt="Tavily API" height="48" />
+  <img src="./assets/streamlit.png" alt="Streamlit" height="48" />
+  <img src="./assets/lanngraph.jpg" alt="LangGraph" height="48" />
+  <img src="./assets/sumo.jpg" alt="Eclipse SUMO" height="48" />
 </div>
 
 <br />
