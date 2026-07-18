@@ -46,11 +46,11 @@
 <br />
 <br />
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Yashwanth1617/Yashwanth1617/main/assets/Weaviate.png" alt="Weaviate" width="48" height="48" style="border-radius: 12px; background-color: #242938; padding: 2px;" />
-  <img src="https://raw.githubusercontent.com/Yashwanth1617/Yashwanth1617/main/assets/tavily-color.svg" alt="Tavily API" width="48" height="48" style="border-radius: 12px; background-color: #242938; padding: 2px;" />
-  <img src="https://raw.githubusercontent.com/Yashwanth1617/Yashwanth1617/main/assets/streamlit.png" alt="Streamlit" width="48" height="48" style="border-radius: 12px; background-color: #242938; padding: 2px;" />
-  <img src="https://raw.githubusercontent.com/Yashwanth1617/Yashwanth1617/main/assets/Langgraph.png" alt="LangGraph" width="48" height="48" style="border-radius: 12px; background-color: #242938; padding: 2px;" />
-  <img src="https://raw.githubusercontent.com/Yashwanth1617/Yashwanth1617/main/assets/netedit-application-icon-256x256.png" alt="Eclipse SUMO" width="48" height="48" style="border-radius: 12px; background-color: #242938; padding: 2px;" />
+  <img src="assets/Weaviate.png" alt="Weaviate" width="48" height="48" style="border-radius: 12px; background-color: #242938; padding: 2px;" />
+  <img src="assets/tavily-color.svg" alt="Tavily API" width="48" height="48" style="border-radius: 12px; background-color: #242938; padding: 2px;" />
+  <img src="assets/streamlit.png" alt="Streamlit" width="48" height="48" style="border-radius: 12px; background-color: #242938; padding: 2px;" />
+  <img src="assets/Langgraph.png" alt="LangGraph" width="48" height="48" style="border-radius: 12px; background-color: #242938; padding: 2px;" />
+  <img src="assets/netedit-application-icon-256x256.png" alt="Eclipse SUMO" width="48" height="48" style="border-radius: 12px; background-color: #242938; padding: 2px;" />
 </div>
 
 <br />
