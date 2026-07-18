@@ -16,12 +16,23 @@
 
 <br />
 
-> **Engineering at the intersection of Machine Learning and scalable Full-Stack Development.**  
-> *Currently pursuing a B.Tech in AI & Data Engineering at Amrita Vishwa Vidyapeetham.*
+<table width="100%" border="0" align="center">
+  <tr>
+    <td width="70%" valign="middle">
+      <blockquote>
+        <b>Engineering at the intersection of Machine Learning and scalable Full-Stack Development.</b><br/>
+        <i>Currently pursuing a B.Tech in AI & Data Engineering at Amrita Vishwa Vidyapeetham.</i>
+      </blockquote>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="80%" style="border-radius: 12px;"/>
+    </td>
+  </tr>
+</table>
 
 <br />
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### ✦ 𝐄 𝐗 𝐏 𝐄 𝐑 𝐓 𝐈 𝐒 𝐄
 
@@ -47,7 +58,7 @@
 
 <br />
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### ✦ 𝐒 𝐄 𝐋 𝐄 𝐂 𝐓 𝐄 𝐃  𝐖 𝐎 𝐑 𝐊 𝐒
 
@@ -72,7 +83,7 @@
 
 <br />
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### ✦ 𝐑 𝐄 𝐒 𝐄 𝐀 𝐑 𝐂 𝐇  &  𝐏 𝐔 𝐁 𝐋 𝐈 𝐂 𝐀 𝐓 𝐈 𝐎 𝐍 𝐒
 
@@ -85,7 +96,7 @@
 
 <br />
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### ✦ 𝐀 𝐂 𝐓 𝐈 𝐕 𝐈 𝐓 𝐘  &  𝐌 𝐄 𝐓 𝐑 𝐈 𝐂 𝐒
 
