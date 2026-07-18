@@ -46,11 +46,11 @@
 <br />
 <br />
 <div align="center">
-  <img src="./assets/Weaviate.png" alt="Weaviate" height="48" />
-  <img src="./assets/tavily.jpg" alt="Tavily API" height="48" />
-  <img src="./assets/streamlit.png" alt="Streamlit" height="48" />
-  <img src="./assets/lanngraph.jpg" alt="LangGraph" height="48" />
-  <img src="./assets/sumo.jpg" alt="Eclipse SUMO" height="48" />
+  <img src="./assets/weaviate.png" alt="Weaviate" width="48" height="48" style="border-radius: 12px;" />
+  <img src="./assets/tavily-color.svg" alt="Tavily API" width="48" height="48" style="border-radius: 12px;" />
+  <img src="./assets/Streamlit.png" alt="Streamlit" width="48" height="48" style="border-radius: 12px;" />
+  <img src="./assets/Langgraph.png" alt="LangGraph" width="48" height="48" style="border-radius: 12px;" />
+  <img src="./assets/netedit-application-icon-256x256.png" alt="Eclipse SUMO" width="48" height="48" style="border-radius: 12px;" />
 </div>
 
 <br />
