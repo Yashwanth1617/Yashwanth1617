@@ -7,7 +7,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/yashwanth1617"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=111" alt="LinkedIn"/></a>
   <a href="mailto:yashwanthbalamurugan97@gmail.com"><img src="https://img.shields.io/badge/-Email-black.svg?style=for-the-badge&logo=gmail&colorB=111" alt="Email"/></a>
-  <a href="https://github.com/Yashwanth1617"><img src="https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=111" alt="GitHub"/></a>
+  <a href="https://instagram.com/yashwanth.1617"><img src="https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=111" alt="Instagram"/></a>
+  <a href="https://twitter.com/Yashwanth1617"><img src="https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=111" alt="Twitter"/></a>
 </p>
 
 <br />
