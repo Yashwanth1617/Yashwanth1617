@@ -2,19 +2,7 @@
 
 <br />
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tr>
-    <td width="15%" align="center" valign="middle">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="120" />
-    </td>
-    <td width="70%" align="center" valign="middle">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YASHWANTH%20B.&fontSize=56&fontColor=fff&fontAlignY=38&desc=Architecting%20Intelligent%20Systems%20%7C%20AI%20and%20Data%20Engineering&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
-    </td>
-    <td width="15%" align="center" valign="middle">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="120" />
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YASHWANTH%20B.&fontSize=56&fontColor=fff&fontAlignY=38&desc=Architecting%20Intelligent%20Systems%20%7C%20AI%20and%20Data%20Engineering&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/yashwanth1617"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=111" alt="LinkedIn"/></a>
@@ -97,6 +85,7 @@
 
 ### ✦ 𝐑 𝐄 𝐒 𝐄 𝐀 𝐑 𝐂 𝐇  &  𝐏 𝐔 𝐁 𝐋 𝐈 𝐂 𝐀 𝐓 𝐈 𝐎 𝐍 𝐒
 
+<img align="right" width="25%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" />
 <br />
 
 **HydroSentinel: An IoT-enabled ASV for dual-scale riverine plastic detection and remediation**  
