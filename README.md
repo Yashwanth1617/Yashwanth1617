@@ -85,7 +85,7 @@
 
 ### ✦ 𝐑 𝐄 𝐒 𝐄 𝐀 𝐑 𝐂 𝐇  &  𝐏 𝐔 𝐁 𝐋 𝐈 𝐂 𝐀 𝐓 𝐈 𝐎 𝐍 𝐒
 
-<img align="right" width="25%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" />
+<img align="right" width="25%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" />
 <br />
 
 **HydroSentinel: An IoT-enabled ASV for dual-scale riverine plastic detection and remediation**  
